@@ -1,0 +1,225 @@
+{
+ "bozo": false,
+ "entries": [
+  {
+   "title": "Giving the world a pluggable Gnutella",
+   "title_detail": {
+    "type": "text/plain",
+    "language": null,
+    "base": "",
+    "value": "Giving the world a pluggable Gnutella"
+   },
+   "links": [
+    {
+     "rel": "alternate",
+     "type": "text/html",
+     "href": "http://writetheweb.com/read.php?item=24"
+    }
+   ],
+   "link": "http://writetheweb.com/read.php?item=24",
+   "summary": "WorldOS is a framework on which to build programs that work like Freenet or Gnutella -allowing distributed applications using peer-to-peer routing.",
+   "summary_detail": {
+    "type": "text/html",
+    "language": null,
+    "base": "",
+    "value": "WorldOS is a framework on which to build programs that work like Freenet or Gnutella -allowing distributed applications using peer-to-peer routing."
+   }
+  },
+  {
+   "title": "Syndication discussions hot up",
+   "title_detail": {
+    "type": "text/plain",
+    "language": null,
+    "base": "",
+    "value": "Syndication discussions hot up"
+   },
+   "links": [
+    {
+     "rel": "alternate",
+     "type": "text/html",
+     "href": "http://writetheweb.com/read.php?item=23"
+    }
+   ],
+   "link": "http://writetheweb.com/read.php?item=23",
+   "summary": "After a period of dormancy, the Syndication mailing list has become active again, with contributions from leaders in traditional media and Web syndication.",
+   "summary_detail": {
+    "type": "text/html",
+    "language": null,
+    "base": "",
+    "value": "After a period of dormancy, the Syndication mailing list has become active again, with contributions from leaders in traditional media and Web syndication."
+   }
+  },
+  {
+   "title": "Personal web server integrates file sharing and messaging",
+   "title_detail": {
+    "type": "text/plain",
+    "language": null,
+    "base": "",
+    "value": "Personal web server integrates file sharing and messaging"
+   },
+   "links": [
+    {
+     "rel": "alternate",
+     "type": "text/html",
+     "href": "http://writetheweb.com/read.php?item=22"
+    }
+   ],
+   "link": "http://writetheweb.com/read.php?item=22",
+   "summary": "The Magi Project is an innovative project to create a combined personal web server and messaging system that enables the sharing and synchronization of information across desktop, laptop and palmtop devices.",
+   "summary_detail": {
+    "type": "text/html",
+    "language": null,
+    "base": "",
+    "value": "The Magi Project is an innovative project to create a combined personal web server and messaging system that enables the sharing and synchronization of information across desktop, laptop and palmtop devices."
+   }
+  },
+  {
+   "title": "Syndication and Metadata",
+   "title_detail": {
+    "type": "text/plain",
+    "language": null,
+    "base": "",
+    "value": "Syndication and Metadata"
+   },
+   "links": [
+    {
+     "rel": "alternate",
+     "type": "text/html",
+     "href": "http://writetheweb.com/read.php?item=21"
+    }
+   ],
+   "link": "http://writetheweb.com/read.php?item=21",
+   "summary": "RSS is probably the best known metadata format around. RDF is probably one of the least understood. In this essay, published on my O'Reilly Network weblog, I argue that the next generation of RSS should be based on RDF.",
+   "summary_detail": {
+    "type": "text/html",
+    "language": null,
+    "base": "",
+    "value": "RSS is probably the best known metadata format around. RDF is probably one of the least understood. In this essay, published on my O'Reilly Network weblog, I argue that the next generation of RSS should be based on RDF."
+   }
+  },
+  {
+   "title": "UK bloggers get organised",
+   "title_detail": {
+    "type": "text/plain",
+    "language": null,
+    "base": "",
+    "value": "UK bloggers get organised"
+   },
+   "links": [
+    {
+     "rel": "alternate",
+     "type": "text/html",
+     "href": "http://writetheweb.com/read.php?item=20"
+    }
+   ],
+   "link": "http://writetheweb.com/read.php?item=20",
+   "summary": "Looks like the weblogs scene is gathering pace beyond the shores of the US. There's now a UK-specific page on weblogs.com, and a mailing list at egroups.",
+   "summary_detail": {
+    "type": "text/html",
+    "language": null,
+    "base": "",
+    "value": "Looks like the weblogs scene is gathering pace beyond the shores of the US. There's now a UK-specific page on weblogs.com, and a mailing list at egroups."
+   }
+  },
+  {
+   "title": "Yournamehere.com more important than anything",
+   "title_detail": {
+    "type": "text/plain",
+    "language": null,
+    "base": "",
+    "value": "Yournamehere.com more important than anything"
+   },
+   "links": [
+    {
+     "rel": "alternate",
+     "type": "text/html",
+     "href": "http://writetheweb.com/read.php?item=19"
+    }
+   ],
+   "link": "http://writetheweb.com/read.php?item=19",
+   "summary": "Whatever you're publishing on the web, your site name is the most valuable asset you have, according to Carl Steadman.",
+   "summary_detail": {
+    "type": "text/html",
+    "language": null,
+    "base": "",
+    "value": "Whatever you're publishing on the web, your site name is the most valuable asset you have, according to Carl Steadman."
+   }
+  }
+ ],
+ "feed": {
+  "title": "WriteTheWeb",
+  "title_detail": {
+   "type": "text/plain",
+   "language": null,
+   "base": "",
+   "value": "WriteTheWeb"
+  },
+  "links": [
+   {
+    "rel": "alternate",
+    "type": "text/html",
+    "href": "http://writetheweb.com"
+   }
+  ],
+  "link": "http://writetheweb.com",
+  "subtitle": "News for web users that write back",
+  "subtitle_detail": {
+   "type": "text/html",
+   "language": null,
+   "base": "",
+   "value": "News for web users that write back"
+  },
+  "language": "en-us",
+  "rights": "Copyright 2000, WriteTheWeb team.",
+  "rights_detail": {
+   "type": "text/plain",
+   "language": null,
+   "base": "",
+   "value": "Copyright 2000, WriteTheWeb team."
+  },
+  "authors": [
+   {
+    "email": "editor@writetheweb.com"
+   }
+  ],
+  "author": "editor@writetheweb.com",
+  "author_detail": {
+   "email": "editor@writetheweb.com"
+  },
+  "publisher": "webmaster@writetheweb.com",
+  "publisher_detail": {
+   "email": "webmaster@writetheweb.com"
+  },
+  "image": {
+   "title": "WriteTheWeb",
+   "title_detail": {
+    "type": "text/plain",
+    "language": null,
+    "base": "",
+    "value": "WriteTheWeb"
+   },
+   "href": "http://writetheweb.com/images/mynetscape88.gif",
+   "links": [
+    {
+     "rel": "alternate",
+     "type": "text/html",
+     "href": "http://writetheweb.com"
+    }
+   ],
+   "link": "http://writetheweb.com",
+   "width": 88,
+   "height": 31,
+   "subtitle": "News for web users that write back",
+   "subtitle_detail": {
+    "type": "text/html",
+    "language": null,
+    "base": "",
+    "value": "News for web users that write back"
+   }
+  }
+ },
+ "headers": {},
+ "encoding": "iso-8859-1",
+ "version": "rss091u",
+ "namespaces": {}
+}

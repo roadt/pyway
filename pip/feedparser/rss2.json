@@ -1,0 +1,214 @@
+{
+ "bozo": false,
+ "entries": [
+  {
+   "title": "Star City",
+   "title_detail": {
+    "type": "text/plain",
+    "language": null,
+    "base": "",
+    "value": "Star City"
+   },
+   "links": [
+    {
+     "rel": "alternate",
+     "type": "text/html",
+     "href": "http://liftoff.msfc.nasa.gov/news/2003/news-starcity.asp"
+    }
+   ],
+   "link": "http://liftoff.msfc.nasa.gov/news/2003/news-starcity.asp",
+   "summary": "How do Americans get ready to work with Russians aboard the International Space Station? They take a crash course in culture, language and protocol at Russia's <a href=\"http://howe.iki.rssi.ru/GCTC/gctc_e.htm\">Star City</a>.",
+   "summary_detail": {
+    "type": "text/html",
+    "language": null,
+    "base": "",
+    "value": "How do Americans get ready to work with Russians aboard the International Space Station? They take a crash course in culture, language and protocol at Russia's <a href=\"http://howe.iki.rssi.ru/GCTC/gctc_e.htm\">Star City</a>."
+   },
+   "published": "Tue, 03 Jun 2003 09:39:21 GMT",
+   "published_parsed": [
+    2003,
+    6,
+    3,
+    9,
+    39,
+    21,
+    1,
+    154,
+    0
+   ],
+   "id": "http://liftoff.msfc.nasa.gov/2003/06/03.html#item573",
+   "guidislink": false
+  },
+  {
+   "summary": "Sky watchers in Europe, Asia, and parts of Alaska and Canada will experience a <a href=\"http://science.nasa.gov/headlines/y2003/30may_solareclipse.htm\">partial eclipse of the Sun</a> on Saturday, May 31st.",
+   "summary_detail": {
+    "type": "text/html",
+    "language": null,
+    "base": "",
+    "value": "Sky watchers in Europe, Asia, and parts of Alaska and Canada will experience a <a href=\"http://science.nasa.gov/headlines/y2003/30may_solareclipse.htm\">partial eclipse of the Sun</a> on Saturday, May 31st."
+   },
+   "published": "Fri, 30 May 2003 11:06:42 GMT",
+   "published_parsed": [
+    2003,
+    5,
+    30,
+    11,
+    6,
+    42,
+    4,
+    150,
+    0
+   ],
+   "id": "http://liftoff.msfc.nasa.gov/2003/05/30.html#item572",
+   "guidislink": true,
+   "link": "http://liftoff.msfc.nasa.gov/2003/05/30.html#item572"
+  },
+  {
+   "title": "The Engine That Does More",
+   "title_detail": {
+    "type": "text/plain",
+    "language": null,
+    "base": "",
+    "value": "The Engine That Does More"
+   },
+   "links": [
+    {
+     "rel": "alternate",
+     "type": "text/html",
+     "href": "http://liftoff.msfc.nasa.gov/news/2003/news-VASIMR.asp"
+    }
+   ],
+   "link": "http://liftoff.msfc.nasa.gov/news/2003/news-VASIMR.asp",
+   "summary": "Before man travels to Mars, NASA hopes to design new engines that will let us fly through the Solar System more quickly.  The proposed VASIMR engine would do that.",
+   "summary_detail": {
+    "type": "text/html",
+    "language": null,
+    "base": "",
+    "value": "Before man travels to Mars, NASA hopes to design new engines that will let us fly through the Solar System more quickly.  The proposed VASIMR engine would do that."
+   },
+   "published": "Tue, 27 May 2003 08:37:32 GMT",
+   "published_parsed": [
+    2003,
+    5,
+    27,
+    8,
+    37,
+    32,
+    1,
+    147,
+    0
+   ],
+   "id": "http://liftoff.msfc.nasa.gov/2003/05/27.html#item571",
+   "guidislink": false
+  },
+  {
+   "title": "Astronauts' Dirty Laundry",
+   "title_detail": {
+    "type": "text/plain",
+    "language": null,
+    "base": "",
+    "value": "Astronauts' Dirty Laundry"
+   },
+   "links": [
+    {
+     "rel": "alternate",
+     "type": "text/html",
+     "href": "http://liftoff.msfc.nasa.gov/news/2003/news-laundry.asp"
+    }
+   ],
+   "link": "http://liftoff.msfc.nasa.gov/news/2003/news-laundry.asp",
+   "summary": "Compared to earlier spacecraft, the International Space Station has many luxuries, but laundry facilities are not one of them.  Instead, astronauts have other options.",
+   "summary_detail": {
+    "type": "text/html",
+    "language": null,
+    "base": "",
+    "value": "Compared to earlier spacecraft, the International Space Station has many luxuries, but laundry facilities are not one of them.  Instead, astronauts have other options."
+   },
+   "published": "Tue, 20 May 2003 08:56:02 GMT",
+   "published_parsed": [
+    2003,
+    5,
+    20,
+    8,
+    56,
+    2,
+    1,
+    140,
+    0
+   ],
+   "id": "http://liftoff.msfc.nasa.gov/2003/05/20.html#item570",
+   "guidislink": false
+  }
+ ],
+ "feed": {
+  "title": "Liftoff News",
+  "title_detail": {
+   "type": "text/plain",
+   "language": null,
+   "base": "",
+   "value": "Liftoff News"
+  },
+  "links": [
+   {
+    "rel": "alternate",
+    "type": "text/html",
+    "href": "http://liftoff.msfc.nasa.gov/"
+   }
+  ],
+  "link": "http://liftoff.msfc.nasa.gov/",
+  "subtitle": "Liftoff to Space Exploration.",
+  "subtitle_detail": {
+   "type": "text/html",
+   "language": null,
+   "base": "",
+   "value": "Liftoff to Space Exploration."
+  },
+  "language": "en-us",
+  "published": "Tue, 10 Jun 2003 04:00:00 GMT",
+  "published_parsed": [
+   2003,
+   6,
+   10,
+   4,
+   0,
+   0,
+   1,
+   161,
+   0
+  ],
+  "updated": "Tue, 10 Jun 2003 09:41:01 GMT",
+  "updated_parsed": [
+   2003,
+   6,
+   10,
+   9,
+   41,
+   1,
+   1,
+   161,
+   0
+  ],
+  "docs": "http://blogs.law.harvard.edu/tech/rss",
+  "generator_detail": {
+   "name": "Weblog Editor 2.0"
+  },
+  "generator": "Weblog Editor 2.0",
+  "authors": [
+   {
+    "email": "editor@example.com"
+   }
+  ],
+  "author": "editor@example.com",
+  "author_detail": {
+   "email": "editor@example.com"
+  },
+  "publisher": "webmaster@example.com",
+  "publisher_detail": {
+   "email": "webmaster@example.com"
+  }
+ },
+ "headers": {},
+ "encoding": "utf-8",
+ "version": "rss20",
+ "namespaces": {}
+}
