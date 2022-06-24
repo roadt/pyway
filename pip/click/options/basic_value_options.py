@@ -1,0 +1,36 @@
+import click
+
+@click.command()
+@click.option('--n', default=1)
+def dots(n):
+    click.echo(' . '*n)
+
+
+# How to make an option required
+@click.command()
+@click.option('--n', required=True, type=int)
+def dots2(n):
+    click.echo(' . ' * n)
+
+
+# How to use a python reserved word such as 'from' as parameter
+@click.command()
+@click.option('--from', '-f', 'from_')
+@click.option('--to', '-t')
+def reserved_param_name(from_, to):
+    click.echo(f"from {from_} to {to}")
+
+
+# show default value
+@click.command()
+@click.option('--n', default=1, show_default=True)
+def dots3(n):
+    click.echo('.'*n)
+
+
+if __name__ == '__main__':
+    #reserved_param_name()
+    dots3()
+
+
+
