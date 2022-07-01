@@ -87,6 +87,7 @@ def text(s, x, y):
 
 s = scene(scr, w, h, 16)
 sk = snake(s, 0, 0)
+sk.speed = 10
 for i in range(20):
     sk.add(0, i)
 
@@ -107,7 +108,7 @@ while True:
             elif key == p.K_DOWN:
                 sk.turn(DOWN)
         else:   
-            print evt
+            print(evt)
     scr.fill(black)
     #s.drawbk()
     sk.move()
@@ -119,5 +120,3 @@ while True:
 
             
         
-        
-    

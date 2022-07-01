@@ -5,7 +5,7 @@
 import pygame as p
 import sys,os
 
-os.chdir('/RAD/studies/comp/lang/python/lib/pygame/')
+os.chdir(os.path.dirname(__file__))
 
 # init pygame modules (including display)
 p.init()
@@ -38,3 +38,6 @@ while 1:
     p.display.flip()
 
     
+
+
+
