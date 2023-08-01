@@ -1,0 +1,6 @@
+vms:
+  hosts:
+    vm01:
+      ansible_host: ubt18.ld
+    vm02: 
+      ansible_host: ubt20.ld
